@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MQTT-I2C-Display", "MQTT-I2C-Display\MQTT-I2C-Display.vcxproj", "{0FA9C3A8-452B-41EF-A418-9102B170F49F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		OTA|x86 = OTA|x86
+		OTA-fs|x86 = OTA-fs|x86
+		Release|x86 = Release|x86
+		Serial|x86 = Serial|x86
+		SerialFS|x86 = SerialFS|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FA9C3A8-452B-41EF-A418-9102B170F49F}.Debug|x86.ActiveCfg = Debug|Win32
+		{0FA9C3A8-452B-41EF-A418-9102B170F49F}.Debug|x86.Build.0 = Debug|Win32
+		{0FA9C3A8-452B-41EF-A418-9102B170F49F}.OTA|x86.ActiveCfg = OTA|Win32
+		{0FA9C3A8-452B-41EF-A418-9102B170F49F}.OTA|x86.Build.0 = OTA|Win32
+		{0FA9C3A8-452B-41EF-A418-9102B170F49F}.OTA-fs|x86.ActiveCfg = OTA-fs|Win32
+		{0FA9C3A8-452B-41EF-A418-9102B170F49F}.OTA-fs|x86.Build.0 = OTA-fs|Win32
+		{0FA9C3A8-452B-41EF-A418-9102B170F49F}.Release|x86.ActiveCfg = Release|Win32
+		{0FA9C3A8-452B-41EF-A418-9102B170F49F}.Release|x86.Build.0 = Release|Win32
+		{0FA9C3A8-452B-41EF-A418-9102B170F49F}.Serial|x86.ActiveCfg = Serial|Win32
+		{0FA9C3A8-452B-41EF-A418-9102B170F49F}.Serial|x86.Build.0 = Serial|Win32
+		{0FA9C3A8-452B-41EF-A418-9102B170F49F}.SerialFS|x86.ActiveCfg = SerialFS|Win32
+		{0FA9C3A8-452B-41EF-A418-9102B170F49F}.SerialFS|x86.Build.0 = SerialFS|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
